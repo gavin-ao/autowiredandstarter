@@ -1,0 +1,5 @@
+spring/properties/SpecProperties.class
+META-INF/spring-configuration-metadata.json
+spring/config/SpecConfig.class
+spring/workspecies/Worker.class
+spring/workspecies/Farmer.class

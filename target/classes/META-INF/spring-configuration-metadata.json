@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "spec",
+      "type": "spring.properties.SpecProperties",
+      "sourceType": "spring.properties.SpecProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spec.age",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.properties.SpecProperties"
+    },
+    {
+      "name": "spec.name",
+      "type": "java.lang.String",
+      "sourceType": "spring.properties.SpecProperties"
+    },
+    {
+      "name": "spec.spec",
+      "type": "java.lang.String",
+      "sourceType": "spring.properties.SpecProperties"
+    }
+  ],
+  "hints": []
+}
